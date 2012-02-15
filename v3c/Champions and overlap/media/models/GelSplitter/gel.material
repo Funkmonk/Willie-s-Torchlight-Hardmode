@@ -1,0 +1,25 @@
+material 21_-_Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.57451 0.57451 0.57451
+			diffuse 0.57451 0.57451 0.57451
+			specular 0 0 0 0
+			emissive 0.3 0.3 0.3
+			scene_blend alpha_blend
+			alpha_rejection greater 5
+			texture_unit
+			{
+				texture gel.png
+			}
+			texture_unit
+			{
+				texture gelreflect.png
+				colour_op add
+				env_map spherical
+			}
+		}
+	}
+}

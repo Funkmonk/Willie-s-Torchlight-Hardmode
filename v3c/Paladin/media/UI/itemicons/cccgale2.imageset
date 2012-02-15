@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "cccgale2" Imagefile="media/ui/itemicons/cccgale2.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="skill_65" XPos="0" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_66" XPos="64" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_67" XPos="128" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_68" XPos="192" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_69" XPos="256" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_70" XPos="320" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_71" XPos="384" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_72" XPos="448" YPos="0" Width="64" Height="64" />
+
+	<Image Name="skill_73" XPos="0" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_74" XPos="64" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_75" XPos="128" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_76" XPos="192" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_77" XPos="256" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_78" XPos="320" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_79" XPos="384" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_80" XPos="448" YPos="64" Width="64" Height="64" />
+
+	<Image Name="skill_81" XPos="0" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_82" XPos="64" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_83" XPos="128" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_84" XPos="192" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_85" XPos="256" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_86" XPos="320" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_87" XPos="384" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_88" XPos="448" YPos="128" Width="64" Height="64" />
+
+	<Image Name="skill_89" XPos="0" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_90" XPos="64" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_91" XPos="128" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_92" XPos="192" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_93" XPos="256" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_94" XPos="320" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_95" XPos="384" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_96" XPos="448" YPos="192" Width="64" Height="64" />
+
+	<Image Name="skill_97" XPos="0" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_98" XPos="64" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_99" XPos="128" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_100" XPos="192" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_101" XPos="256" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_102" XPos="320" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_103" XPos="384" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_104" XPos="448" YPos="256" Width="64" Height="64" />
+
+	<Image Name="skill_105" XPos="0" YPos="320" Width="64" Height="64" />
+	<Image Name="skill_106" XPos="64" YPos="320" Width="64" Height="64" />
+	<Image Name="skill_107" XPos="128" YPos="320" Width="64" Height="64" />
+	<Image Name="skill_108" XPos="192" YPos="320" Width="64" Height="64" />
+	<Image Name="skill_109" XPos="256" YPos="320" Width="64" Height="64" />
+	<Image Name="convictionicon" XPos="320" YPos="320" Width="64" Height="64" />
+	<Image Name="charismaicon" XPos="384" YPos="320" Width="64" Height="64" />
+	<Image Name="compassionicon" XPos="448" YPos="320" Width="64" Height="64" />
+	
+	<Image Name="holybolt_inactive" XPos="0" YPos="384" Width="64" Height="64" />
+	<Image Name="holybolt_active" XPos="64" YPos="384" Width="64" Height="64" />
+	<Image Name="holygrenade_inactive" XPos="128" YPos="384" Width="64" Height="64" />
+	<Image Name="holygrenade_active" XPos="192" YPos="384" Width="64" Height="64" />
+	<Image Name="holyhand_active" XPos="256" YPos="384" Width="64" Height="64" />
+	<Image Name="holyhand_inactive" XPos="320" YPos="384" Width="64" Height="64" />
+	<Image Name="holyshield_active" XPos="384" YPos="384" Width="64" Height="64" />
+	<Image Name="holyshield_inactive" XPos="448" YPos="384" Width="64" Height="64" />
+
+	<Image Name="kick_active" XPos="0" YPos="448" Width="64" Height="64" />
+	<Image Name="kick_inactive" XPos="64" YPos="448" Width="64" Height="64" />
+	<Image Name="pathofglory_inactive" XPos="128" YPos="448" Width="64" Height="64" />
+	<Image Name="pathofglory_active" XPos="192" YPos="448" Width="64" Height="64" />
+	<Image Name="run_active" XPos="256" YPos="448" Width="64" Height="64" />
+	<Image Name="run_inactive" XPos="320" YPos="448" Width="64" Height="64" />
+	<Image Name="ward2_inactive" XPos="384" YPos="448" Width="64" Height="64" />
+	<Image Name="ward2_active" XPos="448" YPos="448" Width="64" Height="64" />
+
+</Imageset>

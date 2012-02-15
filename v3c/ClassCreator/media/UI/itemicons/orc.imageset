@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name="Orc" Imagefile="media/ui/itemicons/orc.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+    <Image Name="orcicon" XPos="384" YPos="425" Width="128" Height="128" />
+    <Image Name="orciconselected" XPos="384" YPos="681" Width="128" Height="128" />
+    <Image Name="orciconlit" XPos="384" YPos="553" Width="128" Height="128" />
+</Imageset>
