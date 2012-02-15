@@ -1,0 +1,16 @@
+>Hey, I hope you enjoy this.
+
+>This is functional on all Windows versions of Torchlight, but will be most stabile on the latest patch.
+
+Steps to play with this mod set:
+>IF YOU ARE RUNNING THE STEAM VERSION:
+1. Go to users\yourusernamehere\torchlight\ and open local_settings.txt. Search for "steam", and change STEAMCLOUD: to "0", and IGNORESTEAMCLOUD: to "1".
+>IF NOT, skip to step 2:
+2. Clear your mod cache with clearcache.bat located in /utilities. To do this, just place it in %Application Data%\runic games\torchlight\mods and run it.
+3. Delete or displace your current save files in both users\yourusernamehere\torchlight\save and %Application Data%\runic games\torchlight\savebeforecloud.
+4. Put all of these folders into the %Application Data%\runic games\torchlight\mods folder.
+5. Run the game and hope you didn't fuck up!
+
+>If you have any issues, you're welcome to email me. This mod is currently in active development and I have no real proprietary claim on its content. You are welcome to take anything here and do what you will with it. Some mods included are owned by other modders, who will be credited when my mod is formally released.
+
+>For more Torchlight modding stuff, check out Runic Games Fansite. There are quite a few helpful, creative, and intelligent people there.
