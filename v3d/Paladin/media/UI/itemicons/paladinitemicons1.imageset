@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "paladinitemicons1" Imagefile="media/ui/itemicons/paladinitemicons1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="paladin_valk_shoulder" XPos="0" YPos="288" Width="64" Height="96" />
+	<Image Name="paladin_valk_helm" XPos="64" YPos="288" Width="64" Height="96" />
+	<Image Name="paladin_valk_gloves" XPos="128" YPos="288" Width="64" Height="96" />
+	<Image Name="paladin_valk_boots" XPos="192" YPos="288" Width="64" Height="96" />
+	<Image Name="paladin_valk_body" XPos="256" YPos="288" Width="64" Height="96" />
+	<Image Name="paladin_spike_body" XPos="320" YPos="288" Width="64" Height="96" />
+	<Image Name="paladin_spiked_shoulder" XPos="384" YPos="288" Width="64" Height="96" />
+	<Image Name="paladin_spiked_head" XPos="448" YPos="288" Width="64" Height="96" />
+	<Image Name="paladin_spiked_gloves" XPos="0" YPos="384" Width="64" Height="96" />
+	<Image Name="paladin_spiked_boots" XPos="64" YPos="384" Width="64" Height="96" />
+	<Image Name="paladin_shadow_shoulder" XPos="128" YPos="384" Width="64" Height="96" />
+	<Image Name="paladin_shadow_head" XPos="192" YPos="384" Width="64" Height="96" />
+	<Image Name="paladin_shadow_gloves" XPos="256" YPos="384" Width="64" Height="96" />
+	<Image Name="paladin_shadow_boots" XPos="320" YPos="384" Width="64" Height="96" />
+	<Image Name="paladin_shadow_body" XPos="384" YPos="384" Width="64" Height="96" />
+	<Image Name="paladin_plate_shoulders" XPos="448" YPos="384" Width="64" Height="96" />
+</Imageset>

@@ -1,0 +1,226 @@
+material Material_#1/helmet
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			scene_blend alpha_blend
+			alpha_rejection greater 128
+			texture_unit
+			{
+				texture vaq_hair_01.png
+			}
+		}
+	}
+}
+material Assasin_Set/base
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+			}
+		}
+	}
+}
+material Assasin_Set/boots
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+			}
+		}
+	}
+}
+material Assasin_Set/chest
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+			}
+		}
+	}
+}
+material Assasin_Set/gloves
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+			}
+		}
+	}
+}
+material Assasin_Set/helmet
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture Vanq_Assassin_Helm.png
+			}
+		}
+	}
+}
+material Assasin_Set/face
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+			}
+		}
+	}
+}
+material Assasin_Set/shoulders
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture vanq_assassin_shoulders.png
+			}
+		}
+	}
+}
+material Material_#1/base
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+			}
+		}
+	}
+}
+material Material_#1/boots
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+			}
+		}
+	}
+}
+material Material_#1/chest
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+			}
+		}
+	}
+}
+material Material_#1/gloves
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.529412 0.529412 0.529412
+			diffuse 0.529412 0.529412 0.529412
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+			}
+		}
+	}
+}
+material Material_#1/face
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+			}
+		}
+	}
+}
+material Material_#1/shoulders
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+		}
+	}
+}

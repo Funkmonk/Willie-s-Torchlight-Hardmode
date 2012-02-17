@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "gale1" Imagefile="media/ui/itemicons/gale1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="skill_1" XPos="0" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_2" XPos="64" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_3" XPos="128" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_4" XPos="192" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_5" XPos="256" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_6" XPos="320" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_7" XPos="384" YPos="0" Width="64" Height="64" />
+	<Image Name="skill_8" XPos="448" YPos="0" Width="64" Height="64" />
+
+	<Image Name="skill_9" XPos="0" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_10" XPos="64" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_11" XPos="128" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_12" XPos="192" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_13" XPos="256" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_14" XPos="320" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_15" XPos="384" YPos="64" Width="64" Height="64" />
+	<Image Name="skill_16" XPos="448" YPos="64" Width="64" Height="64" />
+
+	<Image Name="skill_17" XPos="0" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_18" XPos="64" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_19" XPos="128" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_20" XPos="192" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_21" XPos="256" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_22" XPos="320" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_23" XPos="384" YPos="128" Width="64" Height="64" />
+	<Image Name="skill_24" XPos="448" YPos="128" Width="64" Height="64" />
+
+	<Image Name="skill_25" XPos="0" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_26" XPos="64" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_27" XPos="128" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_28" XPos="192" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_29" XPos="256" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_30" XPos="320" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_31" XPos="384" YPos="192" Width="64" Height="64" />
+	<Image Name="skill_32" XPos="448" YPos="192" Width="64" Height="64" />
+
+	<Image Name="skill_33" XPos="0" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_34" XPos="64" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_35" XPos="128" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_36" XPos="192" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_37" XPos="256" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_38" XPos="320" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_39" XPos="384" YPos="256" Width="64" Height="64" />
+	<Image Name="skill_40" XPos="448" YPos="256" Width="64" Height="64" />
+
+	<Image Name="skill_41" XPos="0" YPos="320" Width="64" Height="64" />
+	<Image Name="skill_42" XPos="64" YPos="320" Width="64" Height="64" />
+	<Image Name="skill_43" XPos="128" YPos="320" Width="64" Height="64" />
+	<Image Name="skill_44" XPos="192" YPos="320" Width="64" Height="64" />
+	<Image Name="skill_45" XPos="256" YPos="320" Width="64" Height="64" />
+	<Image Name="skill_46" XPos="320" YPos="320" Width="64" Height="64" />
+	<Image Name="skill_47" XPos="384" YPos="320" Width="64" Height="64" />
+	<Image Name="skill_48" XPos="448" YPos="320" Width="64" Height="64" />
+
+	<Image Name="skill_49" XPos="0" YPos="384" Width="64" Height="64" />
+	<Image Name="skill_50" XPos="64" YPos="384" Width="64" Height="64" />
+	<Image Name="skill_51" XPos="128" YPos="384" Width="64" Height="64" />
+	<Image Name="skill_52" XPos="192" YPos="384" Width="64" Height="64" />
+	<Image Name="skill_53" XPos="256" YPos="384" Width="64" Height="64" />
+	<Image Name="skill_54" XPos="320" YPos="384" Width="64" Height="64" />
+	<Image Name="skill_55" XPos="384" YPos="384" Width="64" Height="64" />
+	<Image Name="skill_56" XPos="448" YPos="384" Width="64" Height="64" />
+
+	<Image Name="skill_57" XPos="0" YPos="448" Width="64" Height="64" />
+	<Image Name="skill_58" XPos="64" YPos="448" Width="64" Height="64" />
+	<Image Name="skill_59" XPos="128" YPos="448" Width="64" Height="64" />
+	<Image Name="skill_60" XPos="192" YPos="448" Width="64" Height="64" />
+	<Image Name="skill_61" XPos="256" YPos="448" Width="64" Height="64" />
+	<Image Name="skill_62" XPos="320" YPos="448" Width="64" Height="64" />
+	<Image Name="skill_63" XPos="384" YPos="448" Width="64" Height="64" />
+	<Image Name="skill_64" XPos="448" YPos="448" Width="64" Height="64" />
+
+
+</Imageset>

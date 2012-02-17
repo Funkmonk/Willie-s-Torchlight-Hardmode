@@ -1,0 +1,35 @@
+material polearm_02_02
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.6 0.407843 0.988235
+			depth_write off
+			scene_blend one one
+			texture_unit
+			{
+				texture spectralpolearm.dds
+				colour_op modulate
+			}
+			texture_unit
+			{
+				texture energy_additive.dds
+				colour_op add
+				scroll_anim 0.01 -0.02
+				rotate_anim .1
+			}
+			texture_unit
+			{
+				tex_coord_set 1
+				tex_Address_mode clamp
+				env_map cubic_normal
+				cubic_texture falloffcube.dds combinedUVW
+				colour_op modulate
+			}
+		}
+	}
+}
