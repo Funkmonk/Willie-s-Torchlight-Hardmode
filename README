@@ -2,6 +2,37 @@
 
 >This is functional on all Windows versions of Torchlight, but will be most stabile on the latest patch.
 
+  Current features:
+
+-Flat base HP and armor that doesn't scale with level
+  -No more surviving the unimaginable just because of your level. If you want a bigger health reservoir, build one. Want more damage? You might not be able to afford the loss of survivability!
+-Faster paced, and more intricate combat
+  -You die in fewer hits, move faster, reach slightly further, and hit for slightly less, generally speaking.
+-Diversified enemy lineup that has to be engaged with accordingly
+  -Champion monsters are extremely diverse and difficult, but are accordingly prized targets
+-Fully reworked economy to encourage creativity on the part of the player, rather than grinding
+  -Normal monster drops are less common but more worthwhile
+  -Item value barely increases with level
+  -Gold income barely increases with level
+  -Item UTILITY is key; sword with most DAMAGE is not necessarily the best, but may well be in a given circumstance
+-More complex decision making
+  -Not every enemy is necessarily worth trying to kill
+  -Any character can use any weapon type
+  -All basic passives are available at level one to further cater to diverse builds
+  -Fewer stat points and more skill points 
+-9 (more to come) new classes, each quite different from the rest
+-Diversified and reworked shops
+
+  Features yet to be included:
+
+-Reworked gems with a complex gem combination system (gemcraft anyone?)
+-Reworked potion balance/implimentation with a robust alchemy system
+-Diversified normal monster spawn types
+-Side-branches that will be practically required to tackle the depths of the main dungeon
+-Weapon-specific melee range
+-Whatever feasible suggested material I recieve from yall!
+-fully functional skill trees for each class that include damage/utility scaling with for every stat type
+
   Steps to play with this mod set:
 
 >IF YOU ARE RUNNING THE STEAM VERSION:
