@@ -1,8 +1,9 @@
->Hey, I hope you enjoy this.
+>Hey, my name's Willie and this is a torchlight modding project focused on difficulty/complexity increase and the transposition of hardcore roguelike mechanics upon Torchlight.
 
 >This is functional on all Windows versions of Torchlight, but will be most stabile on the latest patch.
 
-Steps to play with this mod set:
+  Steps to play with this mod set:
+
 >IF YOU ARE RUNNING THE STEAM VERSION:
 1. Go to %Application Data%\runic games\torchlight\ and open local_settings.txt. Search for "steam", and change STEAMCLOUD: to "0", and IGNORESTEAMCLOUD: to "1".
 >IF NOT, skip to step 2:
@@ -13,9 +14,23 @@ Steps to play with this mod set:
 6. Run the game and hope you didn't fuck up
 7. Pick a class and ***run the game on EASY difficulty***
 
->If you have any issues, you're welcome to email me. This mod is currently in active development and I have no real proprietary claim on its content.
+  Diagnosing issues:
 
->Torchlight is owned by Runic Games(tm), and I am not making--and do not intend to make--money from this project. Rather, this is intended to further my friends' understandings of game theory, to develop tools with which other modders may interact with game data, and to try my hand at game development--deep into the mechanic design and balancing process.
+Q: "Everyone's naked", "I crash every time I try to run the game"
+A: These are all symptoms of the game trying to load with a cache of mod files that doesn't match the current mod files in place, or the game trying to load with a save or number of saves that were generated in a different version of the game or under different mods. This can be easily solved by carefully going back through the steps detailed above.
+
+Q: "I crash every time I get to a certain place, but I haven't restarted the game or tried clearing my cache"
+A: restart your game without clearing your cache, and if that doesn't work, try closing the game, clearing your cache, and starting the game up again. You shouldn't need to mess with your saves in the case of this issue. In rare cases, this can also be fixed by going near to the place that causes the crash (but not close enough to induce the crash) and making a town portal. Use the town portal and go back through it to put you where you were originally--near the crash site.
+
+Q: "I crash every time I get to a certain place, even after restarting my game, clearing my cache, and trying the 'town portal trick.'"
+A: Email me. It is likely I fucked something up. Thanks.
+
+
+  General notes:
+
+>If you have any issues installing or playing, and you've read the README thoroughly, you're welcome to email me.This mod is currently in active development.
+
+>Torchlight is owned by Runic Games(tm), and I am not making (and do not intend to make) money from this project. Rather, this is intended to further my friends' understandings of game theory, to develop tools with which other modders may interact with game data, and to try my hand at game development--deep into the mechanic design and balancing process.
 
 >Some files included are (formally speaking) intellectual property owned by other modders, who will be credited when my mod is formally released. I make no claim of ownership to anything created by others--infact I do not wish to limit the public's use of--and creative derivance from--my creations in the context of this mod.
 
